@@ -20,4 +20,4 @@ chmod u+x runtests.sh
 ```
 Make sure the tests directory is in the same directory as the project one.
 
-note : this version of the project does passes about 94% of the given tests.
+note : this version of the project passes about 94% of the given tests.
